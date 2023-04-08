@@ -8,5 +8,8 @@ public class Day2Demo {
 		System.out.println(" Day 2 Git");
 
 	}
-
+       public void add(int a, int b) {
+    	   
+    	   System.out.println(a + b);
+       }
 }
