@@ -15,4 +15,9 @@ public class Day2Demo {
 	int age = 10;
 	
 	String country = "USA";
+	String firstName = "John";
+	
+	String lastName = "Chakrouf";
+	
+	String capital = "DC";
 }
